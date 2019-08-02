@@ -5,6 +5,7 @@
     <g-link :to="post.path">
       En savoir plus
     </g-link>
+    <hr>
   </div>
 </template>
 

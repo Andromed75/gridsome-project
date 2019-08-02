@@ -29,3 +29,12 @@ h1 {
 hr {
     border: 2px solid black;
 }
+
+.layout{
+    min-width: 80%;
+}
+
+img{
+    max-width: 40%;
+    max-height: auto;
+}
