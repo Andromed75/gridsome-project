@@ -1,0 +1,31 @@
+body{
+    font-family: 'Exo';
+}
+
+h2{
+    font-family: 'Rubik';
+}
+
+.post-list {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 20px;
+}
+
+body {
+    font-family: 'Exo';
+}
+h2 {
+    font-family: 'Rubik';
+    font-weight: bolder;
+    border: 0 solid;
+}
+h1 {
+    text-align: center;
+    background: linear-gradient(120deg,#6128a1,#e94b59);
+    font-size: 4rem;
+    font-weight: bolder;
+}
+hr {
+    border: 2px solid black;
+}
